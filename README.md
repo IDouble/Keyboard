@@ -5,7 +5,7 @@ A Simple Java API for controlling the keyboard
 - powerfull
 - many functions
 
-I searched long for a simple Keyboard class in Java but I found nothing who fitted my needs,so I writted a simple Java API for accessing the Mouse.
+I searched long for a simple Keyboard class in Java but I found nothing who fitted my needs,so I writted a simple Java API for accessing the Keyboard.
 
 # Example
 
