@@ -2,10 +2,10 @@
 A Simple Java API for controlling the keyboard
 
 - easy to use
-- powerfull
+- powerful
 - many functions
 
-I searched long for a simple Keyboard class in Java but I found nothing who fitted my needs,so I writted a simple Java API for accessing the Keyboard.
+I searched long to find a simple Keyboard class for Java but I have found nothing that fits, so I writed a simple Java API for accessing the Keyboard.
 
 # Example
 
@@ -32,6 +32,4 @@ public class Main {
 # LICENSE
 
 - Mozilla Public License Version 2.0
-- More Informations at   http://choosealicense.com/licenses/mpl-2.0/#
-
-# Commands TODO
+- More Informations at   http://choosealicense.com/licenses/mpl-2.0/
