@@ -1,14 +1,18 @@
-# Keyboard
+# ⌨️ Keyboard ⌨️
 A Simple Java API for controlling the keyboard
 
 - easy to use
 - powerful
 - many functions
 
-I searched long to find a simple Keyboard class for Java but I have found nothing that fits, so I writed a simple Java API for accessing the Keyboard.
+I searched long to find a simple Keyboard class for Java but I have found nothing that fits,
+so I writed a simple Java API for accessing the Keyboard.
 
 # Example
 
+As an example, I used it to program a game controller with Arduino (JArduino).
+
+```
 import java.awt.AWTException;
 import java.util.ArrayList;
 
@@ -28,7 +32,7 @@ public class Main {
 		keyboard.press(KeyEvent.VK_WINDOWS);
 	}
 }
-
+```
 # LICENSE
 
 - Mozilla Public License Version 2.0
