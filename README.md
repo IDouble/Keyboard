@@ -1,12 +1,12 @@
 # ⌨️ Keyboard ⌨️
-A Simple Java Library for controlling the keyboard
+A Simple **Java Library** for controlling the **Keyboard**, it is:
 
-- easy to use
-- powerful
-- many functions
+- **Easy** to use
+- **Powerful**
+- And has **many functions**
 
-I searched long to find a simple Keyboard Library for Java but I have found nothing that fits,
-so I wrote a simple Java Library to access the Keyboard.
+I searched long to find a simple **Keyboard Library** for **Java** but I have found nothing that fits,
+so I wrote a simple **Java Library** to access the **Keyboard**.
 
 # Example
 
