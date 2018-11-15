@@ -6,7 +6,7 @@ A Simple Java Library for controlling the keyboard
 - many functions
 
 I searched long to find a simple Keyboard Library for Java but I have found nothing that fits,
-so I writed a simple Java Library for accessing the Keyboard.
+so I wrote a simple Java Library to access the Keyboard.
 
 # Example
 
