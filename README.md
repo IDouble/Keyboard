@@ -3,7 +3,7 @@ A Simple **Java Library** for controlling the **Keyboard**, it is:
 
 - **Easy** to use
 - **Powerful**
-- And has **many functions**
+- And has **many Functions**
 
 I searched long to find a simple **Keyboard Library** for **Java** but I have found nothing that fits,
 so I wrote a simple **Java Library** to access the **Keyboard**.
